@@ -1,2 +1,2 @@
-# Lexical Distance Modeling and Clustering in Narrative Texts
+# Lexical Clustering in Narrative Texts
 This project implements an NLP pipeline for unsupervised word clustering on Project Gutenberg texts. The workflow covers corpus cleaning, POS-based vocabulary selection, distance modelling with global and sentence-local metrics, and graph refinement using Dijkstra’s shortest paths, followed by hierarchical clustering and silhouette evaluation.
