@@ -1,6 +1,6 @@
 # Lexical Clustering in Narrative Texts
 
-Lexical distance modelling and Dijkstra‑refined clustering on Project Gutenberg texts
+### Lexical distance modelling and Dijkstra‑refined clustering on Project Gutenberg texts
 
 ## Background  
 
